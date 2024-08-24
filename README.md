@@ -13,5 +13,8 @@ The data used in this project consisted of employee records including metrics su
 # Modeling and Evaluation
 We utilized both decision trees and random forest classifiers to build predictive models. The random forest model performed slightly better than the decision tree model due to its ability to handle more complex feature interactions. Feature importance metrics revealed that 'last_evaluation', 'number_project', and 'overworked' were the top three factors driving employee turnover. The evaluation metrics, including accuracy, precision, and recall, showed that the random forest model was more reliable for predicting employee exit.
 
+![image](https://github.com/user-attachments/assets/3ec9c44c-8082-40d4-95fb-a7812258e0cf)
+
+
 # Conclusion
 Based on our analysis, we recommend that Salifort Motors caps the number of projects assigned to employees and ensures a better work-life balance to prevent burnout. Additionally, recognizing employees who consistently meet expectations and further investigating why long-tenured employees are leaving will help improve retention. Future steps involve integrating employee satisfaction surveys and exploring deeper connections between specific departmental challenges and turnover rates.
